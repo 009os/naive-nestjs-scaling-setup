@@ -56,4 +56,4 @@ nest-nginx-loadbalancer/
 - **Start services:** `docker-compose up --build`
 - **Stop services:** `docker-compose down`
 - **View logs:** `docker-compose logs -f`
-- **View specific service logs:** `docker-compose logs -f app1` or `docker-compose logs -f app2` 
+- **View specific service logs:** `docker-compose logs -f app1` or `docker-compose logs -f app2`
